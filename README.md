@@ -10,13 +10,11 @@
 
 ```
 pip3 install audeer audonnx audinterface pickle paho-mqtt
-
 ```
 
 ### Settings
 
 ```
 vi main.py
-
 ```
 
