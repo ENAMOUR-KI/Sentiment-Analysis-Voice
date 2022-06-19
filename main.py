@@ -6,7 +6,7 @@ from paho.mqtt import client as mqtt_client
 import urllib.request
 
 # CONFIG
-# broker := Rhasspy IP
+# host := Rhasspy IP
 host = 'localhost'
 port_mqtt = 12183
 port_api = 12101
